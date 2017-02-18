@@ -1,5 +1,7 @@
 # [itp-w1] Create Box
 
+**Group Project by:** Kyle Abens, Alex Alonso, Corey Shelton
+
 Write a program that takes three inputs: height, width, and character.
 Use your knowledge of loops to create a box made of characters based on the inputs.
 
